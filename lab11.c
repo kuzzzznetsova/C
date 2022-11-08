@@ -1,3 +1,6 @@
+/*
+выделить беззнаковые восьмеричные числа и напечатать их цифры в двоичной системе счисления.
+*/
 #include <stdio.h>
 typedef enum { S1, S2, S3 } State;
 int is_alphanumeric(char c)
