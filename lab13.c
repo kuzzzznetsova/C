@@ -1,3 +1,6 @@
+/*
+Есть ли во входных данных слово, состоящее только из гласных?
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
